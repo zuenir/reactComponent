@@ -63,5 +63,5 @@ To test the library
 
 ## 👨‍💻 Author
 ### 👤 Zuenir Vemba
-- Github: [@ashish](https://github.com/zuenir)
+- Github: [@zuenir](https://github.com/zuenir)
 - Mail: [Zuenir Vemba](mailto:zuenirlima@gmail.com)
