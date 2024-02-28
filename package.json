@@ -20,9 +20,17 @@
     "build-storybook": "storybook build",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuenir/reactcomponent.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuenir/reactcomponent/issues"
+  },
+  "homepage": "https://github.com/zuenir/reactcomponent#readme",
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.16",
     "@storybook/addon-interactions": "^7.6.16",
